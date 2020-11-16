@@ -1,0 +1,45 @@
+..\obj\keypad.o: ..\Hardware\Keypad\Keypad.c
+..\obj\keypad.o: ..\Library\inc\ht32.h
+..\obj\keypad.o: D:\Program Files\Holtek\HT32_DFP\1.0.24\ARM\INC\Holtek\HT32F5xxxx\ht32f5xxxx_01.h
+..\obj\keypad.o: D:\Program Files\Holtek\HT32_DFP\1.0.24\ARM\INC\Holtek\HT32F5xxxx\ht32_config.h
+..\obj\keypad.o: ..\Code\Include\core_cm0plus.h
+..\obj\keypad.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\keypad.o: ..\Code\Include\core_cmInstr.h
+..\obj\keypad.o: ..\Code\Include\core_cmFunc.h
+..\obj\keypad.o: D:\Program Files\Holtek\HT32_DFP\1.0.24\ARM\INC\Holtek\HT32F5xxxx\system_ht32f5xxxx_01.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_lib.h
+..\obj\keypad.o: ..\Library\inc\ht32f52342_52_libcfg.h
+..\obj\keypad.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\keypad.o: ..\Config\ht32f5xxxx_conf.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_adc.h
+..\obj\keypad.o: ..\Library\inc\ht32.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_bftm.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_ckcu.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_cmp.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_crc.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_ebi.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_exti.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_flash.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_gpio.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_tm_type.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_tm.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_i2c.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_i2s.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_mctm.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_pdma.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_pwrcu.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_rstcu.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_rtc.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_sci.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_spi.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_usart.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_usbd.h
+..\obj\keypad.o: ..\Config\ht32f5xxxx_01_usbdconf.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_usbdinit.h
+..\obj\keypad.o: ..\Library\inc\ht32_retarget_usbdconf.h
+..\obj\keypad.o: ..\Library\inc\ht32f5xxxx_wdt.h
+..\obj\keypad.o: ..\Library\inc\ht32_cm0plus_misc.h
+..\obj\keypad.o: ..\Library\inc\ht32_serial.h
+..\obj\keypad.o: ..\Library\inc\ht32_div.h
+..\obj\keypad.o: ..\Library\inc\ht32_rand.h
+..\obj\keypad.o: ..\Hardware\Delay\delay.h
